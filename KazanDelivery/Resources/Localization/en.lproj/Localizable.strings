@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  KazanDelivery
+
+  Created by Данил Габдуллин on 11.11.2024.
+  
+*/
+
+next = "Next";
+cool = "Cool!";
+
+// MARK: - OnboardingScreen
+onboardingHeaderStepOne = "Delicious Food";
+onboardingHeaderStepTwo = "Fast Shipping";
+onboardingHeaderStepThree = "Certificate Food";
+onboardingHeaderStepFour = "Payment Online";
+onboardingTextStepOne = "Lorem ipsum dolor sit amet, consectetur adipiscing elit.";
+onboardingTextStepTwo = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum rhoncus nulla.";
+onboardingTextStepThree = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ultricies mauris a id.";
+onboardingTextStepFour = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dui ultricies sit massa.";
+

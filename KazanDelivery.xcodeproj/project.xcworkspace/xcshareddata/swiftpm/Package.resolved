@@ -1,0 +1,15 @@
+{
+  "originHash" : "a7d3a10ac0cf2018b8214dc8e9e6d755592a434d08550bca4bc2c53fd3944881",
+  "pins" : [
+    {
+      "identity" : "localizationframework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Frogger13/LocalizationFramework",
+      "state" : {
+        "revision" : "503df21ec83154213a88eed37d77dc48f9e96484",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
